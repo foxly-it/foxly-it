@@ -1,4 +1,4 @@
-<img width="40%";  src="https://foxly.de/images/style-11/pageLogo-3ce78f7d.svg">
+<img src="https://foxly.de/images/style-11/pageLogo-3ce78f7d.svg">
 ### Hi there 👋
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=foxly-it&count_private=true&line_height=21&show_icons=true&hide_border=true&theme=calm"/>
