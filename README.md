@@ -1,4 +1,4 @@
-<div align=center>
+<div style="width: 300px; height: 300px;" align=center>
 <img src="https://foxly.de/media/452-foxly-logo-2023-webp">
 </div>
 
