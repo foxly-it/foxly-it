@@ -4,7 +4,8 @@ Hey there! I'm Mark, and I'm passionate about creating content in the field of i
 
 Through my website, I share tutorials and articles (primarily in German) that make complex topics easy to understand. Whether you are a technology enthusiast or simply interested in IT, my content provides valuable insights and practical knowledge.
 
-Why do I do all this? Because I am passionate about IT and enjoy sharing my knowledge with others.
+Why do I do all this? 
+- Because I am passionate about IT and enjoy sharing my knowledge with others.
 
 ---
 https://foxly.de
